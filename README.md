@@ -55,7 +55,7 @@ Permite que os usuários adicionem itens ao inventário com facilidade, registra
 Conta com uma função de busca eficiente que permite localizar itens rapidamente, filtrando pelo nome ou descrição.
 </p>
 
-<div align="cente>
+<div align="center">
 <img width="200" src="https://github.com/SidneyTeodoroJr/InventoryManager/blob/main/InventoryManager/designer/print-1.jpeg" alt="Banner Inventory Manager">
 </div>
 
@@ -71,7 +71,7 @@ A funcionalidade permite editar informações de itens em tempo real, com a atua
 Possui opções para excluir itens individualmente ou em massa, facilitando a reorganização do inventário.]
 </p>
 
-<div align="cente>
+<div align="center">
 <img width="200" src="https://github.com/SidneyTeodoroJr/InventoryManager/blob/main/InventoryManager/designer/print-4.jpeg" alt="Banner Inventory Manager">
 </div>
 
@@ -81,7 +81,7 @@ Possui opções para excluir itens individualmente ou em massa, facilitando a re
 Modais interativos permitem visualizar detalhes dos itens e confirmar exclusões, prevenindo erros acidentais.
 </p>
 
-<div align="cente>
+<div align="center">
 <img width="200" src="https://github.com/SidneyTeodoroJr/InventoryManager/blob/main/InventoryManager/designer/print-3.jpeg" alt="Banner Inventory Manager">
 </div>
 
@@ -147,7 +147,7 @@ Futuramente, o Inventory Manager poderá incluir:
 Com todos esses recursos e diferenciais, o <strong>Inventory Manager</strong> se destaca como uma solução eficiente e prática para gerenciar inventários de diferentes tamanhos e propósitos. Seu design intuitivo e foco na simplicidade garantem que qualquer usuário consiga aproveitar ao máximo suas funcionalidades.
 </p>
 
-<div align="cente>
+<div align="center">
 <img width="200" src="https://github.com/SidneyTeodoroJr/InventoryManager/blob/main/InventoryManager/designer/print-2.jpeg" alt="Banner Inventory Manager">
 </div>
 
