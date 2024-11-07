@@ -6,7 +6,7 @@ from modules.db_utils import *
 from modules.ui_components import *
 
 def main(page: ft.Page):
-    page.title = "Admin Stock"
+    page.title = "Inventory Manager"
     page.theme_mode = ft.ThemeMode.SYSTEM
     page.scroll = ft.ScrollMode.HIDDEN
 
