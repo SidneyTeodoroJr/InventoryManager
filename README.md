@@ -11,6 +11,13 @@
 O <strong>Inventory Manager</strong> é um aplicativo inovador voltado para o gerenciamento de inventários de forma intuitiva, ideal para atender tanto pequenas empresas quanto usuários individuais. A plataforma foi desenvolvida com uma interface simplificada e recursos robustos para facilitar o acompanhamento do estoque, garantindo praticidade na inclusão, edição e exclusão de itens.
 </p>
 
+<h2>Download da Aplicação</h2>
+<a href="https://github.com/SidneyTeodoroJr/InventoryManager/raw/main/InventoryManager/build%20platforms/InventoryManager.apk" download>Android</a>
+</br>
+
+<a href="https://github.com/SidneyTeodoroJr/InventoryManager/raw/main/InventoryManager/build%20platforms/InventoryManager%20-%20windows.rar" download>Windows</a>
+</br>
+
 <h2>Tecnologias usada:</h2>
 
 [Python](https://docs.python.org/3/): Linguagem backend para integração perfeita com Flet e SQLite, possibilitando scripts eficientes.<br/>
