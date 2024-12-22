@@ -12,10 +12,10 @@ O <strong>Inventory Manager</strong> é um aplicativo inovador voltado para o ge
 </p>
 
 <h2>Download da Aplicação</h2>
-<a href="https://github.com/SidneyTeodoroJr/InventoryManager/raw/main/InventoryManager/build%20platforms/InventoryManager.apk" download>Android</a>
+<a href="https://github.com/SidneyTeodoroJr/InventoryManager/raw/main/InventoryManager/build%20platforms/InventoryManager.apk" target="_blank" download>Android</a>
 </br>
 
-<a href="https://github.com/SidneyTeodoroJr/InventoryManager/raw/main/InventoryManager/build%20platforms/InventoryManager%20-%20windows.rar" download>Windows</a>
+<a href="https://github.com/SidneyTeodoroJr/InventoryManager/raw/main/InventoryManager/build%20platforms/InventoryManager%20-%20windows.rar"  target="_blank" download>Windows</a>
 </br>
 
 <h2>Tecnologias usada:</h2>
